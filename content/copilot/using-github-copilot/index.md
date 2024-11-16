@@ -25,5 +25,4 @@ children:
 redirect_from:
   - /copilot/github-copilot-chat
   - /copilot/github-copilot-in-the-cli
----
 
